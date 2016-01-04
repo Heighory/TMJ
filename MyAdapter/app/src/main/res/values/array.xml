@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_name">
+        <item>江泽民0</item>
+        <item>朱镕基1</item>
+        <item>胡锦铸2</item>
+        <item>温加宝3</item>
+        <item>习近平4</item>
+        <item>习近平5</item>
+        <item>习近平6</item>
+        <item>习近平7</item>
+        <item>习近平8</item>
+        <item>习近平9</item>
+        <item>王岐山10</item>
+        <item>张德江11</item>
+        <item>张高丽12</item>
+        <item>李克强13</item>
+        <item>马英九14</item>
+        <item>蒋经国15</item>
+        <item>蒋经国16</item>
+        <item>蒋经国17</item>
+        <item>蒋经国18</item>
+        <item>蒋经国19</item>
+        <item>蒋经国20</item>
+        <item>蒋经国21</item>
+        <item>蒋经国22</item>
+    </string-array>
+</resources>
